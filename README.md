@@ -67,7 +67,4 @@ Mouneshha Ippili
 📜 License
 This project is open-source under the MIT License.
 
-✅ Next Steps
-- Copy this content into your `README.md`.
-- Update dependencies or sections as you refine the notebook.
-- Optionally add visual graphs or sample outputs for clarity.
+
